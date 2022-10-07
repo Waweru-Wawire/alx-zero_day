@@ -1,2 +1,2 @@
 My first readme
-By Brandon Wawire
+By Brandon Wawire Waweru
